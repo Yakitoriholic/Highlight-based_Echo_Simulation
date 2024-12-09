@@ -23,6 +23,6 @@ Files:
 The project utlized a toolbox called Acoustics Toolbox, can be downloaded on
 http://oalib.hlsresearch.com/AcousticsToolbox/ (toolbox edition:2020_11_4)
 
-click the file Echo_Simulation.prj by matlab then you'll open the project
+click the file Echo_Simulation.prj by matlab then you'll open the project（or just run main.mlx file）
 
 @author's email: mrsingorxing@gmail.com (feel free to contact)
