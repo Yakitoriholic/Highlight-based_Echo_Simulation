@@ -1,0 +1,130 @@
+ BELLHOP/BELLHOP3D
+
+ BELLHOP- Shallow Water                                                          
+ frequency =   5000.     Hz
+
+ Dummy parameter NMedia =            1
+
+     Spline approximation to SSP
+     Attenuation units: dB/wavelength
+     VACUUM
+
+ Depth =      50.00 m
+
+ Sound speed profile:
+   z (m)     alphaR (m/s)   betaR  rho (g/cm^3)  alphaI     betaI
+
+      0.00      1510.00      0.00     1.00       0.0000    0.0000
+      2.00      1510.00      0.00     1.00       0.0000    0.0000
+      4.00      1510.00      0.00     1.00       0.0000    0.0000
+      6.00      1510.00      0.00     1.00       0.0000    0.0000
+      8.00      1510.00      0.00     1.00       0.0000    0.0000
+     10.00      1510.00      0.00     1.00       0.0000    0.0000
+     12.00      1510.00      0.00     1.00       0.0000    0.0000
+     14.00      1510.00      0.00     1.00       0.0000    0.0000
+     15.00      1510.00      0.00     1.00       0.0000    0.0000
+     16.00      1510.00      0.00     1.00       0.0000    0.0000
+     18.00      1510.00      0.00     1.00       0.0000    0.0000
+     20.00      1510.00      0.00     1.00       0.0000    0.0000
+     22.00      1510.00      0.00     1.00       0.0000    0.0000
+     24.00      1510.00      0.00     1.00       0.0000    0.0000
+     26.00      1510.00      0.00     1.00       0.0000    0.0000
+     28.00      1510.00      0.00     1.00       0.0000    0.0000
+     30.00      1510.00      0.00     1.00       0.0000    0.0000
+     32.00      1510.00      0.00     1.00       0.0000    0.0000
+     34.00      1510.00      0.00     1.00       0.0000    0.0000
+     35.00      1510.00      0.00     1.00       0.0000    0.0000
+     36.00      1510.00      0.00     1.00       0.0000    0.0000
+     38.00      1510.00      0.00     1.00       0.0000    0.0000
+     40.00      1510.00      0.00     1.00       0.0000    0.0000
+     42.00      1510.00      0.00     1.00       0.0000    0.0000
+     44.00      1510.00      0.00     1.00       0.0000    0.0000
+     46.00      1510.00      0.00     1.00       0.0000    0.0000
+     48.00      1510.00      0.00     1.00       0.0000    0.0000
+     50.00      1510.00      0.00     1.00       0.0000    0.0000
+
+                                 ( RMS roughness =   0.00     )
+     ACOUSTO-ELASTIC half-space
+     50.00      1664.00      0.00     1.78       0.0000    0.0000
+
+ __________________________________________________________________________
+
+ Number of Source   depths, Sz =            1
+ Source   depths, Sz (m)
+   30.0000    
+
+
+ __________________________________________________________________________
+
+ Number of Receiver depths, Rz =            1
+ Receiver depths, Rz (m)
+   0.00000    
+
+
+ __________________________________________________________________________
+
+ Number of Receiver ranges, Rr =          501
+ Receiver ranges, Rr (km)
+   0.00000      0.200000      0.400000      0.600000      0.800000    
+   1.00000       1.20000       1.40000       1.60000       1.80000    
+          ... 
+   100.000    
+
+
+ Ray trace run
+ Geometric gaussian beams in Cartesian coordinates
+ Point source (cylindrical coordinates)
+ Rectilinear receiver grid: Receivers at Rr( : ) x Rz( : )
+ __________________________________________________________________________
+
+ Number of beams in elevation   =           30
+ Beam take-off angles (degrees)
+  -20.3000      -18.9000      -17.5000      -16.1000      -14.7000    
+  -13.3000      -11.9000      -10.5000      -9.10000      -7.70000    
+          ... 
+   20.3000    
+
+ __________________________________________________________________________
+
+
+ Step length,       deltas =   0.000     m
+
+ Maximum ray depth, Box%z  =   60.00     m
+ Maximum ray range, Box%r  =   5.000    km
+ No beam shift in effect
+
+
+ Step length,       deltas =   5.000     m (automatically selected)
+
+Tracing beam       1    -20.30
+Tracing beam       2    -18.90
+Tracing beam       3    -17.50
+Tracing beam       4    -16.10
+Tracing beam       5    -14.70
+Tracing beam       6    -13.30
+Tracing beam       7    -11.90
+Tracing beam       8    -10.50
+Tracing beam       9     -9.10
+Tracing beam      10     -7.70
+Tracing beam      11     -6.30
+Tracing beam      12     -4.90
+Tracing beam      13     -3.50
+Tracing beam      14     -2.10
+Tracing beam      15     -0.70
+Tracing beam      16      0.70
+Tracing beam      17      2.10
+Tracing beam      18      3.50
+Tracing beam      19      4.90
+Tracing beam      20      6.30
+Tracing beam      21      7.70
+Tracing beam      22      9.10
+Tracing beam      23     10.50
+Tracing beam      24     11.90
+Tracing beam      25     13.30
+Tracing beam      26     14.70
+Tracing beam      27     16.10
+Tracing beam      28     17.50
+Tracing beam      29     18.90
+Tracing beam      30     20.30
+
+ CPU Time =       0.781E-01s
