@@ -1,6 +1,6 @@
 # echo simulation based on highlight model
 
-The project simulated the process of transmitting a CW pulse and getting the echo of the submarine based on a highlight model in underwater environment. It was finished by `matlab`. 
+The project simulated process of transmitting a CW pulse and getting the echo of the submarine based on a highlight model in underwater environment. It was finished by `matlab`. 
 
 <img src="\pics\模型的图片.png" alt="模型的图片" style="zoom:67%;" />
 
