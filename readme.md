@@ -2,9 +2,9 @@
 
 The project simulated the process of transmitting a CW pulse and getting the echo of the submarine based on a highlight model in underwater environment. It was finished by `matlab`. 
 
-<img src="..\pics\模型的图片.png" alt="模型的图片" style="zoom:67%;" />
+<img src="\pics\模型的图片.png" alt="模型的图片" style="zoom:67%;" />
 
-<img src="..\pics\模型图片2.png" alt="模型图片2" style="zoom:67%;" />
+<img src="\pics\模型图片2.png" alt="模型图片2" style="zoom:67%;" />
 
 Directories:
 
