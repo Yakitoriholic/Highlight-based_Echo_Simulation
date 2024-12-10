@@ -16,7 +16,7 @@ Directories:
 
 Files:
 
-- .mlx:main file of the project（considering array is final edition）
+- main.mlx:main file of the project
 
 - other files: function file
 
