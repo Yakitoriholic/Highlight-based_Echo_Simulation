@@ -1,7 +1,7 @@
  BELLHOP/BELLHOP3D
 
  BELLHOP- Munk profile, coherent                                                 
- frequency =   5000.     Hz
+ frequency =   1500.     Hz
 
  Dummy parameter NMedia =            1
 
@@ -50,21 +50,21 @@
 
  Number of Source   depths, Sz =            1
  Source   depths, Sz (m)
-   1000.00    
+   200.000    
 
 
  __________________________________________________________________________
 
  Number of Receiver depths, Rz =            1
  Receiver depths, Rz (m)
-   1000.00    
+   300.000    
 
 
  __________________________________________________________________________
 
  Number of Receiver ranges, Rr =            1
  Receiver ranges, Rr (km)
-   5.00000    
+   58.9540    
 
 
  Arrivals calculation, ASCII  file output
@@ -97,8 +97,8 @@
 Tracing beam       1    -80.00
 
  Geometric hat beams                     
- halfwidth  =    34.193132347102981     
- epsilonOpt =  (  0.0000000000000000     ,  18365284.121766627     )
+ halfwidth  =    116.17180749143726     
+ epsilonOpt =  (  0.0000000000000000     ,  63597877.924698472     )
  EpsMult    =    1.0000000000000000     
 
 Tracing beam      21    -76.80
@@ -151,4 +151,4 @@ Tracing beam     941     70.55
 Tracing beam     961     73.75
 Tracing beam     981     76.96
 
- CPU Time =       0.312E-01s
+ CPU Time =       0.781E-01s

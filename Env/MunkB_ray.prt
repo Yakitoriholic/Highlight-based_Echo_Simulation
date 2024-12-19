@@ -1,7 +1,7 @@
  BELLHOP/BELLHOP3D
 
  BELLHOP- Munk profile                                                           
- frequency =   5000.     Hz
+ frequency =   1500.     Hz
 
  Dummy parameter NMedia =            1
 
@@ -50,7 +50,7 @@
 
  Number of Source   depths, Sz =            1
  Source   depths, Sz (m)
-   1000.00    
+   200.000    
 
 
  __________________________________________________________________________
@@ -65,12 +65,12 @@
 
  __________________________________________________________________________
 
- Number of Receiver ranges, Rr =          100
+ Number of Receiver ranges, Rr =          500
  Receiver ranges, Rr (km)
-   0.00000      0.101010      0.202020      0.303030      0.404040    
-  0.505050      0.606061      0.707071      0.808081      0.909091    
+   0.00000      0.400802      0.801603       1.20240       1.60321    
+   2.00401       2.40481       2.80561       3.20641       3.60721    
           ... 
-   10.0000    
+   200.000    
 
 
  Ray trace run
@@ -92,7 +92,7 @@
  Step length,       deltas =   0.000     m
 
  Maximum ray depth, Box%z  =   5500.     m
- Maximum ray range, Box%r  =   10.00    km
+ Maximum ray range, Box%r  =   200.0    km
  No beam shift in effect
 
 
@@ -134,4 +134,4 @@ Tracing beam      33     17.35
 Tracing beam      34     18.68
 Tracing beam      35     20.00
 
- CPU Time =        0.00    s
+ CPU Time =       0.312E-01s
